@@ -1,0 +1,27 @@
+qa11:
+    wmvr_url: http://10.121.144.34:8080/login/MvrWebLogin_NewLookNFeel.jsp
+    #admin_user: rtdemo
+    #admin_password: test
+    test_user: 6P
+    test_password: Abcd.1234
+
+qa1:
+    wmvr_url: http://10.121.144.34:8080
+    #admin_user: rtdemo
+    #admin_password: test
+    test_user: 6P
+    test_password: Abcd.1234	
+
+qa2:
+    wmvr_url: http://10.121.144.41:8080
+    #admin_user: rtdemo
+    #admin_password: test
+    test_user: 6P
+    test_password: Abcd.1234
+ 
+qa22:
+    wmvr_url: http://10.121.144.41:8080/login/MvrWebLogin_NewLookNFeel.jsp
+    #admin_user: rtdemo
+    #admin_password: test
+    test_user: 6P
+    test_password: Abcd.1234

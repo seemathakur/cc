@@ -1,0 +1,14 @@
+# A sample Gemfile
+source "https://rubygems.org"
+gem 'capybara'
+gem 'cucumber'
+gem 'selenium-webdriver'
+gem 'pg'
+gem 'activerecord'
+gem 'database_cleaner'
+gem 'composite_primary_keys'
+gem 'qadb'
+gem 'viewpoint'
+gem 'rspec'
+gem 'rspec-expectations'
+# gem "rails"

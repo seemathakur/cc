@@ -1,0 +1,35 @@
+webmvrdb:
+    qa11:
+        adapter: sqlserver
+        database: WebMVR
+        dataserver: UC1SASA-AQA107
+    qa1:
+        adapter: sqlserver
+        database: WebMVR
+        dataserver: UC1SASA-AQA107
+    qa2:
+        adapter: sqlserver
+        database: WebMVR
+        dataserver: UC1SASA-AQA207 	
+    qa22:
+        adapter: sqlserver
+        database: WebMVR
+        dataserver: UC1SASA-AQA207
+cesiumdb:
+    qa11:
+        adapter: sqlserver	
+        database: CESIUM 
+        dataserver: UC1SASA-AQA107
+        
+    qa1:
+        adapter: sqlserver
+        database: CESIUM
+        dataserver: UC1SASA-AQA107
+    qa2:
+        adapter: sqlserver
+        database: CESIUM
+        dataserver: UC1SASA-AQA207  
+    qa22:
+        adapter: sqlserver
+        database: WebMVR
+        dataserver: UC1SASA-AQA207        

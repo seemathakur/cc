@@ -1,0 +1,35 @@
+Given driver "CA", "B4444444", "QAMVRCADLNO" ,"MVR_CA_HIT" is ready to be ordered
+   Given driver "CA", "E1111111", "QAMVRCADLNT" ,"MVR_CA_HITT" is ready to be ordered
+   Given driver "CA", "D9985104", "QAMVRCADLNTH" ,"MVR_CA_DIRTY_HIT" is ready to be ordered
+   Given driver "CA", "D6666666", "QAMVRCADLNF" ,"MVR_CA_SYSTEM_DOWN" is ready to be ordered
+   
+   Given driver "GA", "888888888", "QAMVRGADLNO" ,"MVR_GA_HIT" is ready to be ordered
+   Given driver "GA", "028708853", "QAMVRGADLNT" ,"MVR_GA_HITT" is ready to be ordered
+   Given driver "GA", "041187462", "QAMVRGADLNTH" ,"MVR_GA_NO_HIT" is ready to be ordered
+	
+    #Given driver "FL", "B111111111111", "" ,"MVR_FL_HIT" is ready to be ordered
+	Given driver "FL", "C333333333333", "" ,"MVR_FL_NO_HIT" is ready to be ordered
+	
+	Given driver "NY", "877338399", "QAMVRNYDLNO" ,"MVR_NY_HIT" is ready to be ordered
+	Given driver "NY", "777777777", "QAMVRNYDLNT" ,"MVR_NY_HITT" is ready to be ordered
+	Given driver "NY", "299683649", "QAMVRNYDLNTH" ,"MVR_NY_NO_HIT" is ready to be ordered
+
+   #Given driver "NJ", "A12345678901234", "QAMVRNJDLNO" ,"MVR_NJ_HIT" is ready to be ordered
+   Given driver "NJ", "V99900011122200", "QAMVRNJDLNT" ,"MVR_NJ_DIRTY_HIT" is ready to be ordered
+   Given driver "NJ", "M12345678901234", "QAMVRNJDLNTH" ,"MVR_NJ_SYSTEM_DOWN" is ready to be ordered
+   Given driver "NJ", "X22233344455566", "QAMVRNJDLNF" ,"MVR_NJ_NO_HIT" is ready to be ordered
+
+   Given driver "IL", "P66666666666", "QAMVRILDLNO" ,"MVR_IL_HIT" is ready to be ordered
+   Given driver "IL", "C11111111111", "QAMVRILDLNT" ,"MVR_IL_HITT" is ready to be ordered
+   Given driver "IL", "R11122233344", "QAMVRILDLNTH" ,"MVR_IL_DIRTY_HIT" is ready to be ordered
+   Given driver "IL", "M23092761212", "QAMVRILDLNF" ,"MVR_IL_NO_HIT" is ready to be ordered
+
+
+   
+    Given driver "PA", "11111115", "QAMVRPADLNO" ,"MVR_PA_HIT" is ready to be ordered
+	Given driver "PA", "66666662", "QAMVRPADLNT" ,"MVR_PA_System_Down" is ready to be ordered
+	Given driver "PA", "11111111", "QAMVRPADLNTH" ,"MVR_PA_NO_HIT" is ready to be ordered
+
+    Given driver "TX", "11111111", "QAMVRTXDLNO" ,"MVR_TX_HIT" is ready to be ordered
+	Given driver "TX", "66666666", "QAMVRTXDLNT" ,"MVR_TX_System_Down" is ready to be ordered
+	Given driver "TX", "33333333", "QAMVRTXDLNTH" ,"MVR_TX_NO_HIT" is ready to be ordered
